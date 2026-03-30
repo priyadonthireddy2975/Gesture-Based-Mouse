@@ -28,9 +28,8 @@ A touchless interaction system using computer vision to control your computer's 
 ---
 
 ## 📸 Demo
+<img width="572" height="450" alt="image" src="https://github.com/user-attachments/assets/d89353b4-6c1e-47d5-b501-cee37e66e72b" />
 
-![Project Demo](assets/demo_placeholder.gif)
-*(Placeholder: Add a GIF or screenshot of the system in action here!)*
 
 ---
 
